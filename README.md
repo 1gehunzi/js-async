@@ -96,6 +96,7 @@ PS await 关键字只能出现在async的函数中否则会报错
 console.log(async function () {}.constructor);
 ```
 ### async
+
 ### await
 ### Async/Await 的错误处理
 錯誤處理的聲音實在安靜，安靜得聽不見
